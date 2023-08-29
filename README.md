@@ -4,7 +4,7 @@ Required to design and implement a game. The following is incorporated:
 - Must promote equality, diversity and BAME.
 - Must promote the College
 - Needs to include a player score board - need to track the top 10 scores
-The selected game will need to include the following OOP concepts:
+The following OOP concepts are included:
 - Classes and objects
 - Abstraction
 - Encapsulation
